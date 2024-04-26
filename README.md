@@ -1,6 +1,6 @@
 # splat-to-rgb
 ## About
-This is a lightweight Python script utility crafted to streamline the processing of Gaussian Splat PLY files. It efficiently transforms the FDC (Foveated Differential Coordinates) color properties of the input PLY file into RGB (Red, Green, Blue) properties, resulting in a new PLY file with improved color representation and enhanced readability for use in 3D software applications.
+This is a lightweight Python script utility crafted to streamline the processing of Gaussian Splat PLY files. It efficiently transforms the FDC (Foveated Differential Coordinates) color properties of the input PLY file into RGB (Red, Green, Blue) properties, resulting in a new PLY file with accurate color representation and easy readability for use in 3D software applications.
 
 ## Installation:
 Clone repo and open a Command Prompt in its path, run:
